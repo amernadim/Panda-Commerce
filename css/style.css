@@ -11,3 +11,16 @@
   font-size: 18px;
   font-weight: 600;
 }
+.panda-bg-secondary{
+  background-color: #fce8e7;
+}
+.panda-btn-info{
+  background-color: #ff3887;
+  color: white;
+  font-size: 20px;
+  font-weight: 500;
+  padding: 10px 30px;
+}
+/* .categorice{
+  height: 50px;
+} */
