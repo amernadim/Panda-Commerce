@@ -21,9 +21,9 @@
   font-weight: 500;
   padding: 10px 30px;
 }
+
 @media screen and (max-width:775px) {
   #carousel-item{
     flex-direction: column-reverse;
-  }
- 
+  } 
 }
