@@ -21,6 +21,9 @@
   font-weight: 500;
   padding: 10px 30px;
 }
-/* .categorice{
-  height: 50px;
-} */
+@media screen and (max-width:775px) {
+  #carousel-item{
+    flex-direction: column-reverse;
+  }
+ 
+}
